@@ -19,6 +19,7 @@ Am Pfingsberg 13<br>
 <p> 
 </p><p><strong>Kontakt:</strong> <br>
 Telefon: 0172-5778854<br>
+Email: <a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0074\u0065\u0073\u006c\u0061\u002d\u0066\u0061\u006b\u0074\u0065\u006e\u002e\u0064\u0065';void 0"><script type="text/javascript">document.write('\u0069\u006e\u0066\u006f\u0040\u0074\u0065\u0073\u006c\u0061\u002d\u0066\u0061\u006b\u0074\u0065\u006e\u002e\u0064\u0065')</script></a>
 </p>
 <p>
 <strong>Haftungsausschluss: </strong><br>
