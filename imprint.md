@@ -7,7 +7,12 @@ permalink: /imprint/
 <div class='impressum'>
 <p>Angaben gemäß § 5 TMG</p>
 <p>
-Feix Reisch <br> 
+Felix Reisch <br> 
+Am Pfingsberg 13<br> 
+40882 Ratingen <br> 
+</p>
+<p>
+Antje Baranek <br> 
 Am Pfingsberg 13<br> 
 40882 Ratingen <br> 
 </p>
