@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Keine Füllwörter, keine Meinungen, einfach nur Fakten... natürlich immer mit Quellennachweisen.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.tesla-fakten.de" # the base hostname & protocol for your site, e.g. http://example.com
+lang: "de-DE"
 google_tag_manager: UA-157542757-2
 twitter_username: teslafakten # replace with your_twitter_username or comment to remove link from footer
 # github_username:  # replace with your_github_username or comment to remove link from footer
@@ -37,6 +38,9 @@ permalink: /:title/
 
 compress_html:
   clippings: all
+
+sass:
+  style: compressed
 
 plugins:
   - jekyll-sitemap
