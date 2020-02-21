@@ -18,8 +18,8 @@ social:
     - https://www.instagram.com/teslafakten
     - https://github.com/thefipster/tesla-fakten
 
- disqus:
-   shortname: tesla-fakten
+disqus:
+  shortname: tesla-fakten
 
 markdown: kramdown
 highlighter: rouge

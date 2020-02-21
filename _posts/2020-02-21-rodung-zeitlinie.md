@@ -2,6 +2,7 @@
 layout: post
 title: "Rodung - Zeitlinie"
 featured-img: harvester
+comments: true
 ---
 
 Da sich die News zur aktuellen Themenlage überschlagen, wollen wir hier die wichtigsten 
