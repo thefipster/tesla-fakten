@@ -9,8 +9,8 @@ comments: true
 
 Da sich die News zur aktuellen Themenlage überschlagen, wollen wir hier die wichtigsten 
 Abschnitte zur Rodung des Tesla Gigafactory Berlin Brandenburg aggregieren. 
-Sollte hier ein Punkt fehlen schreib uns doch einfach eine [Mail](/contact) 
-und wir werden den Artikel schnellsmöglich ergänzen.
+Sollte hier ein Punkt fehlen schreibt es doch bitte unten in die Kommentare oder benutzt die [Kontaktseite](/contact) 
+und wir werden den Artikel schnellstmöglich ergänzen.
 
 ## Donnerstag 20.02.
 
