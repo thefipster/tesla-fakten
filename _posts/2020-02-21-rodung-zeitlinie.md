@@ -9,7 +9,7 @@ Abschnitte zur Rodung des Tesla Gigafactory Berlin Brandenburg aggregieren.
 Sollte hier ein Punkt fehlen schreib uns doch einfach eine [Mail](/contact) 
 und wir werden den Artikel schnellsmöglich ergänzen.
 
-## 20.02.
+## Donnerstag 20.02.
 
 Rodungsarbeiten dürfen fortgesetzt werden [[ts]][3], [[bz]][11]
 
@@ -18,7 +18,7 @@ Rodungsarbeiten dürfen fortgesetzt werden [[ts]][3], [[bz]][11]
 * Tesla willigt ein die Maßnahmen umzusetzen
 * Position der Grünen Liga [[gl]][9]
 
-## 15.02.
+## Samstag 15.02.
 
 Rodungsarbeiten müssen gestoppt werden [[br]][2], [[rbb]][8]
 
@@ -26,14 +26,14 @@ Rodungsarbeiten müssen gestoppt werden [[br]][2], [[rbb]][8]
 * Bis zum 18.02 müssen die Umweltvereine ihre Einsprüche vorlegen 
 * Das Gericht will anschließend bis zum 21.02. eine Entscheidung fällen
 
-## 14.02.
+## Freitag 14.02.
 
 Eilverfahren gegen Rodung sind gescheitert, [[rbb]][1]
 
 * Zwei Eilanträge um die Rodung zu stoppen sind abgelehnt worden 
 * Pressemitteilung der VLAB zum Antrag [[vlab]][10]
 
-## 13.02.
+## Donnerstag 13.02.
 
 Rodungsarbeiten beginnen [[berlin]][7], [[bz]][4]
 
@@ -42,7 +42,7 @@ Rodungsarbeiten beginnen [[berlin]][7], [[bz]][4]
 * Tesla beginnt die Arbeiten auf eigene Gefahr
 * Sollte der Kaufvertrag nicht zu stande kommen, muss eine Ausgleichsfläche entsprechend der Rodung neu aufgeforstet werden
 
-## 12.02.
+## Mittwoch 12.02.
 
 Tesla geht auf Forderungen von Natürschützern ein [[rbb24]][5], [[berlin]][6]
 
