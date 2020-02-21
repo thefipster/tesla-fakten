@@ -2,6 +2,7 @@
 layout: post
 title: "Rodung - Zeitlinie"
 featured-img: harvester
+comments: true
 ---
 
 Da sich die News zur aktuellen Themenlage überschlagen, wollen wir hier die wichtigsten 
@@ -50,8 +51,7 @@ Tesla geht auf Forderungen von Natürschützern ein [[rbb24]][5], [[berlin]][6]
 * Ameisenvölker werden umgesiedelt
 * Reptilien werden umgesiedelt und mit einem Zaun vom Werksgelänge ferngehalten
 * Bäume wurden auf Fledermäuse kontrolliert
-    * In lediglich zwei Bäumen wurden Fledermäuse gefunden, diese werden zunächst nicht gerodet
-* Probleme der Wasserversorgung wurden mit dem 
+    * In zwei Bäumen wurden Fledermäuse gefunden, diese werden zunächst nicht gerodet
 
 
 

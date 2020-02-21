@@ -1,32 +1,28 @@
 title: Tesla Fakten
 author: Antja Baranek & Felix Reisch
 email: info@tesla-fakten.de # email for form submission, you also have to change it in _js/scripts.js
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   Alle Informationen über die Gigafactory Berlin Brandenburg von Tesla aggregiert, konsolodiert und komprimiert. 
   Keine Füllwörter, keine Meinungen, einfach nur Fakten... natürlich immer mit Quellennachweisen.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.tesla-fakten.de" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "https://www.tesla-fakten.de"
 lang: "de-DE"
-google_tag_manager: UA-157542757-2
-twitter_username: teslafakten # replace with your_twitter_username or comment to remove link from footer
-# github_username:  # replace with your_github_username or comment to remove link from footer
-instagram_username: teslafakten # replace with your_instagram_username or comment to remove link from footer
-# social:
-#   name: Your Name
-#   links:
-#     - https://twitter.com/BenBalter
-#     - https://www.facebook.com/ben.balter
-#     - https://www.linkedin.com/in/BenBalter
-#     - https://plus.google.com/+BenBalter
-#     - https://github.com/benbalter
-#     - https://keybase.io/benbalter
+google_analytics: UA-157542757-2
+google_tag_manager: GTM-NDCB3PP
+twitter_username: teslafakten
+instagram_username: teslafakten 
+social:
+  name: Tesla Fakten
+  links:
+    - https://www.twitter.com/teslafakten
+    - https://www.instagram.com/teslafakten
+    - https://github.com/thefipster/tesla-fakten
 
-# disqus:
-#   shortname: janczizikow # to enable comments replace with your_disqus_shortname
+disqus:
+  shortname: tesla-fakten
 
-# Build settings
 markdown: kramdown
-highlighter: rouge # or pygments or null
+highlighter: rouge
 exclude:
   - README.md
   - Gemfile
