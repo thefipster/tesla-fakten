@@ -8,7 +8,7 @@ comments: true
 ---
 
 Da sich die News zur aktuellen Themenlage überschlagen, wollen wir hier die wichtigsten 
-Abschnitte zur Rodung des Tesla Gigafactory Berlin Brandenburg aggregieren. 
+Abschnitte zur Rodung der Kiefernplantage auf dem Gelände der Tesla Gigafactory Berlin Brandenburg aggregieren. 
 Sollte hier ein Punkt fehlen schreibt es doch bitte unten in die Kommentare oder benutzt die [Kontaktseite](/contact) 
 und wir werden den Artikel schnellstmöglich ergänzen.
 
