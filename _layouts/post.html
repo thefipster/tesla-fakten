@@ -23,7 +23,7 @@ layout: compress
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
         <p class="hero__meta">
-            Letzte Aktualisierung: <time>{{ page.last_modified_at | date: "%d.%m.%Y %R" }}</time>
+            Letzte Aktualisierung: <time>{{ page.updated_at | date: "%d.%m.%Y %R" }}</time>
         <br />
             {% assign words = content | number_of_words %}
             Lesezeit: {{ words | divided_by:150 }} min 

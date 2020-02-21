@@ -5,6 +5,8 @@ featured-img: harvester
 img-author: presse03
 img-reference: https://de.wikipedia.org/wiki/Datei:Harvester_John_Deere_1170E.JPG
 comments: true
+published_at: 21.02.2020 10:27
+updated_at: 21.02.2020 16:03
 ---
 
 Da sich die News zur aktuellen Themenlage überschlagen, wollen wir hier die wichtigsten 

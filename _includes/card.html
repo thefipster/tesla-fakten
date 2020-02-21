@@ -19,7 +19,7 @@
       <h2>{{ post.title | strip_html | truncate: 50 }}</h2>
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
       <span class="post-card__meta">
-        Aktualisiert: <time>{{ post.last_modified_at | date: "%d.%m.%Y %R" }}</time>
+        Aktualisiert: <time>{{ post.updated_at | string_to_date: "%d.%m.%Y %R" }}</time>
       </span>
     </div>
     {% if post.summary %}
