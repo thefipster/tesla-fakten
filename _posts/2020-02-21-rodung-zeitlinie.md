@@ -53,8 +53,6 @@ Tesla geht auf Forderungen von Natürschützern ein [[rbb24]][5], [[berlin]][6]
 * Bäume wurden auf Fledermäuse kontrolliert
     * In zwei Bäumen wurden Fledermäuse gefunden, diese werden zunächst nicht gerodet
 
-
-
 [1]: https://www.rbb24.de/studiofrankfurt/wirtschaft/tesla/2020/eilantrag-gegen-tesla-rodung.html
 [2]: https://www.br.de/nachrichten/wirtschaft/gericht-stoppt-rodungsarbeiten-fuer-fabrikgelaende-von-tesla,Rqb4Vio
 [3]: https://www.tagesspiegel.de/berlin/tesla-darf-in-gruenheide-weiter-den-wald-roden-altmaier-sieht-in-urteil-wichtiges-signal-fuer-arbeitsplaetze/25568072.html
