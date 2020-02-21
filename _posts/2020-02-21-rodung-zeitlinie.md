@@ -6,13 +6,23 @@ img-author: presse03
 img-reference: https://de.wikipedia.org/wiki/Datei:Harvester_John_Deere_1170E.JPG
 comments: true
 published_at: 21.02.2020 10:27
-updated_at: 21.02.2020 16:03
+updated_at: 21.02.2020 16:42
 ---
 
 Da sich die News zur aktuellen Themenlage überschlagen, wollen wir hier die wichtigsten 
 Abschnitte zur Rodung der Kiefernplantage auf dem Gelände der Tesla Gigafactory Berlin Brandenburg aggregieren. 
 Sollte hier ein Punkt fehlen schreibt es doch bitte unten in die Kommentare oder benutzt die [Kontaktseite](/contact) 
 und wir werden den Artikel schnellstmöglich ergänzen.
+
+## Freitag 21.02.
+
+Aktivisten besetzen Bäume [[focus]][12], [[lr]][13], [[baumpirati_innen]][14]
+
+* zwei Aktivistinnen (@baumpirat_innen) haben Bäume besetzt
+* Die Piraten distanzieren sich von der Aktion
+* in der Region liegen noch 3 Weltkriegsbomben die heute entschärft werden sollten
+* Die Bombenentschärfung wird wahrscheinlich verschoben
+* Die Polizei versucht die Aktivistinnen aus den Bäumen zu holen
 
 ## Donnerstag 20.02.
 
@@ -68,3 +78,6 @@ Tesla geht auf Forderungen von Natürschützern ein [[rbb24]][5], [[berlin]][6]
 [9]: https://www.grueneliga.de/index.php/de/themen-projekte/weiteres/934-position-des-bundessprecherrates-zum-tesla-gerichtsverfahren
 [10]: https://www.landschaft-artenschutz.de/vlab-beantragt-rodungsstopp-fuer-tesla-gelaende/
 [11]: https://www.bz-berlin.de/berlin/umland/gruenheide-tesla-gelaende-rodung-bau-gruene-liga
+[12]: https://www.focus.de/finanzen/boerse/umwelt-aktivisten-scheitern-vor-gericht-tesla-darf-waldstueck-fuer-gigafactory-in-brandenburg-roden_id_11688274.html
+[13]: https://www.lr-online.de/nachrichten/wirtschaft/gruenheide-tesla-darf-wald-fuer-gigfactory-weiter-roden-43923067.html
+[14]: https://twitter.com/baumpirat_innen?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fwww.lr-online.de%2Fnachrichten%2Fwirtschaft%2Fgruenheide-tesla-darf-wald-fuer-gigfactory-weiter-roden-43923067.html
