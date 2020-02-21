@@ -2,6 +2,8 @@
 layout: post
 title: "Rodung - Zeitlinie"
 featured-img: harvester
+img-author: presse03
+img-reference: https://de.wikipedia.org/wiki/Datei:Harvester_John_Deere_1170E.JPG
 comments: true
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 title: "Wir legen los"
 featured-img: space
+img-author: NASA
+img-reference: https://unsplash.com/@nasa
 comments: true
 ---
 
