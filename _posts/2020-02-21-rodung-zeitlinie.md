@@ -16,7 +16,7 @@ und wir werden den Artikel schnellstmöglich ergänzen.
 
 ## Freitag 21.02.
 
-Aktivisten besetzen Bäume [[focus]][12], [[lr]][13], [[baumpirati_innen]][14]
+Aktivisten besetzen Bäume [[focus]][12], [[lr]][13], [[baumpirat_innen]][14]
 
 * zwei Aktivistinnen (@baumpirat_innen) haben Bäume besetzt
 * Die Piraten distanzieren sich von der Aktion
