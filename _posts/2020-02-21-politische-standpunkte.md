@@ -4,6 +4,9 @@ title: "Standpunkte der Politik"
 featured-img: bundestag
 img-author: Alana Harris
 img-reference: https://unsplash.com/@alanaharris?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge
+comments: true
+published_at: 23.02.2020 12:00
+updated_at: 23.02.2020 12:00
 ---
 
 Wie stehen die einzelnen deuschen Parteien zum Bau und der Rodung für die Gigafactory Berlin Brandenburg.
