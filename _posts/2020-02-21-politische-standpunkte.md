@@ -39,10 +39,12 @@ Wie stehen die einzelnen deuschen Parteien zum Bau und der Rodung für die Gigaf
 * brandenburgische Linksfraktion freut sich über Arbeitsplätze, jedoch skeptisch gegenüber Musk
 
 ## <a name="FDP"></a>FDP
+
 * vor Vertragsbeginn besorgt, deutsche Auflagen seien zu hoch und Klagen ~ 16.02.22020 [[n-tv]][8]
 * besorgt Tesla könne wegen Rodungsstop abwandern ~ 14.02.2020 [[msn]][13]
 
 ## <a name="SPD"></a>SPD
+
 * Dietmar Woidke: begrüßt den Bau der Gigafactory in seinem Bundesland ~ 14.11.2019 [[phoenix]][9]
 * Traut Tesla Zeitplan umsetzung zu ~ 18.12.2019 [[handelsblatt]][10]
 

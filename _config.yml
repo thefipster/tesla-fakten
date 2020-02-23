@@ -2,8 +2,8 @@ title: Tesla Fakten
 author: Antja Baranek & Felix Reisch
 email: info@tesla-fakten.de # email for form submission, you also have to change it in _js/scripts.js
 description: > 
-  Alle Informationen über die Gigafactory Berlin Brandenburg von Tesla aggregiert, konsolodiert und komprimiert. 
-  Keine Füllwörter, keine Meinungen, einfach nur Fakten... natürlich immer mit Quellennachweisen.
+  Alle Informationen über die Gigafactory Berlin Brandenburg von Tesla aggregiert, konsolidiert und komprimiert. 
+  Keine Füllwörter, keine Meinungen, einfach nur Fakten inklusive Quellennachweisen.
 baseurl: "/"
 url: "https://www.tesla-fakten.de"
 lang: "de-DE"
@@ -17,6 +17,18 @@ social:
     - https://www.twitter.com/teslafakten
     - https://www.instagram.com/teslafakten
     - https://github.com/thefipster/tesla-fakten
+
+keywords:
+  - Felix
+  - Reisch
+  - Antje
+  - Baranek
+  - Tesla
+  - Fakten
+  - Gigafactory
+  - Berlin
+  - Brandenburg
+  - Rodung
 
 disqus:
   shortname: tesla-fakten
@@ -41,3 +53,4 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-last-modified-at

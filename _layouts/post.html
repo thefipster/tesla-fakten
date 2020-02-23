@@ -7,17 +7,12 @@ layout: compress
 {% include head.html %}
 
 <body class="site">
+  {% if site.google_tag_manager %}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  {% endif %}
 
-{% if site.google_tag_manager %}
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-{% endif %}
-
-{% include header.html %}
+  {% include header.html %}
 
   {% if page.featured-img %}
 
@@ -28,29 +23,27 @@ layout: compress
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
         <p class="hero__meta">
-            <span>
-              <time>{{ page.date | date_to_string }}</time>&nbsp;
-            </span>
-          <span>
-              {% assign words = content | number_of_words %}
-                {% if words < 360 %}
-                  1 min
-                {% else %}
-                  {{ words | divided_by:180 }} mins
-              {% endif %} read
-              &nbsp;
-          </span>
+            Letzte Aktualisierung: <time>{{ page.updated_at | date: "%d.%m.%Y %R" }}</time>
+        <br />
+            {% assign words = content | number_of_words %}
+            Lesezeit: {{ words | divided_by:150 }} min 
         </p>
       </div>
     </div>
   </div>
 
   <main class="site__content">
+    {% if page.img-author %}
+    <div class="image-credits">
+      <span>Bild bereitgestellt durch 
+        <a alt="{{ page.img-author }}" href="{{ page.img-reference }}" target="_blank" rel="noopener noreferrer">
+          {{ page.img-author }}</span>
+        </a>
+    </div>
+    {% endif %}
     <div class="container">
       <article class="post-content" itemprop="articleBody">
-
         {{ content }}
-
       </article>
       <div class="post-content controls__inner">
         <div class="controls__item prev">
@@ -58,11 +51,12 @@ layout: compress
 
           <span>Previous</span>
           <a href="{{page.previous.url | relative_url }}">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
-                    <path fill="fillColor" d="M5.647 1.718c.37-.434.323-1.09-.106-1.465A1.016 1.016 0 0 0 4.095.36L.25 4.875a1.05 1.05 0 0 0 .017 1.378l3.95 4.407c.38.424 1.03.456 1.448.07a1.05 1.05 0 0 0 .07-1.468l-3.34-3.725 3.253-3.819z"/>
-                  </svg>
-              </span>
+            <span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
+                <path fill="fillColor"
+                  d="M5.647 1.718c.37-.434.323-1.09-.106-1.465A1.016 1.016 0 0 0 4.095.36L.25 4.875a1.05 1.05 0 0 0 .017 1.378l3.95 4.407c.38.424 1.03.456 1.448.07a1.05 1.05 0 0 0 .07-1.468l-3.34-3.725 3.253-3.819z" />
+              </svg>
+            </span>
             {{page.previous.title | strip_html | truncate: 30}}
           </a>
           {% endif %}
@@ -74,10 +68,11 @@ layout: compress
           <a href="{{page.next.url | relative_url }}">
             {{page.next.title | strip_html | truncate: 30}}
             <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
-                  <path fill="#fillColor" d="M.353 9.282c-.37.434-.323 1.09.106 1.465a1.016 1.016 0 0 0 1.446-.107L5.75 6.125a1.05 1.05 0 0 0-.017-1.378L1.784.34A1.015 1.015 0 0 0 .336.27a1.05 1.05 0 0 0-.07 1.468l3.34 3.725L.353 9.282z"/>
-                </svg>
-              </span>
+              <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
+                <path fill="#fillColor"
+                  d="M.353 9.282c-.37.434-.323 1.09.106 1.465a1.016 1.016 0 0 0 1.446-.107L5.75 6.125a1.05 1.05 0 0 0-.017-1.378L1.784.34A1.015 1.015 0 0 0 .336.27a1.05 1.05 0 0 0-.07 1.468l3.34 3.725L.353 9.282z" />
+              </svg>
+            </span>
           </a>
           {% endif %}
         </div>
@@ -89,9 +84,7 @@ layout: compress
     <div class="comments">
       <div class="container">
         <div class="post-content">
-
           {% include disqus.html %}
-
         </div>
       </div>
     </div>
@@ -103,5 +96,4 @@ layout: compress
   {% include footer.html %}
 
 </body>
-
 </html>
